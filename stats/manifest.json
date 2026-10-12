@@ -1,0 +1,35 @@
+{
+ "v": 1,
+ "season": 2026,
+ "currentWeek": 5,
+ "throughWeek": 4,
+ "builtAt": "2026-10-12T15:36:24Z",
+ "matchupsBuiltAt": "2026-10-12T15:36:45Z",
+ "postedAt": "2026-10-12T15:55:58.137Z",
+ "files": {
+  "stats-2026.json": {
+   "bytes": 497472,
+   "sha256": "aaf8760c2b74649f72002a4d58ca7ac45614d4361221181b442f4b58b358f5d4"
+  },
+  "stats-2025.json": {
+   "bytes": 1496332,
+   "sha256": "a39151997465c7d4d4f3f2c0ea60bb1464674149c0f81c1fc7701e41e406bcd4"
+  },
+  "stats-career.json": {
+   "bytes": 159438,
+   "sha256": "8cfd22a72638efc3050aa55e6817575b0524fe44ea0dd2a309317128f3fa2e0d"
+  },
+  "depth-charts.json": {
+   "bytes": 88710,
+   "sha256": "af9fd46f645d9571d873225b08aaba2193adb37e8be259636da51238894bf347"
+  },
+  "sos.json": {
+   "bytes": 78559,
+   "sha256": "a5dcd3becd52c9a9505d95e310410e3e47e2d0a548b8be9acf4ec73317f0b7c8"
+  },
+  "matchups-2026.json": {
+   "bytes": 39724,
+   "sha256": "bdc427f1793d8c08463655dcc5a8f0e9df36199d71e6af48fe9c3b1bfb229094"
+  }
+ }
+}
