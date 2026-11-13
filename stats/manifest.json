@@ -3,13 +3,13 @@
  "season": 2026,
  "currentWeek": 10,
  "throughWeek": 9,
- "builtAt": "2026-11-13T13:30:15Z",
- "matchupsBuiltAt": "2026-11-13T13:30:35Z",
- "postedAt": "2026-11-13T13:30:36.965Z",
+ "builtAt": "2026-11-13T16:00:12Z",
+ "matchupsBuiltAt": "2026-11-13T16:00:32Z",
+ "postedAt": "2026-11-13T16:00:33.807Z",
  "files": {
   "stats-2026.json": {
-   "bytes": 822191,
-   "sha256": "6981754a0d4046dd5d39da527716156610eb395f4be991f1ea0f869686ee3e2b"
+   "bytes": 823284,
+   "sha256": "6dfabcbb692843874975ed4a7fa2ec6b2d46dbd64c0921cd885b84eb86499c22"
   },
   "stats-2025.json": {
    "bytes": 1496332,
@@ -21,15 +21,15 @@
   },
   "depth-charts.json": {
    "bytes": 87908,
-   "sha256": "2704e08e3bfd26d968d726e0ec1b35dfdfa4312fd105eedce7b02b1dbb822f61"
+   "sha256": "ab128d79e400a8d6b739550a0f0e1debca0209d47673d34c6c92ce93c8d80634"
   },
   "sos.json": {
    "bytes": 78559,
    "sha256": "a5dcd3becd52c9a9505d95e310410e3e47e2d0a548b8be9acf4ec73317f0b7c8"
   },
   "matchups-2026.json": {
-   "bytes": 39751,
-   "sha256": "c4c0530e1d49bf86e4e5ea7b6c84d4276847ebc1fb03fcc0de84f6f121a46697"
+   "bytes": 39752,
+   "sha256": "70ef4ce614e58c610e47baa8d1119f846575e09bed92b32ceedb8cf1ae6d66a6"
   }
  }
 }
